@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/shridharmanvi/media-streaming.svg?branch=master)](https://travis-ci.org/shridharmanvi/media-streaming)
 # A simple media streaming app which uses kurento media server
 
 This build is based off of Kurento Open source project:
