@@ -1,7 +1,14 @@
 package com.example.mediastreaming;
 
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
 public class HelloWorld {
+
     public static void main(String[] args) {
-        System.out.println("Hello world!!");
+
+        // Calling springboot run bootstrap method
+        SpringApplication.run(HelloWorld.class, args);
     }
 }
