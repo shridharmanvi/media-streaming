@@ -9,7 +9,8 @@ https://github.com/Kurento/kurento-docker/tree/master/kurento-media-server
 
 ### Future enhancements
 - [x] Dockerize media streaming server
-- [ ] Build the sender/receiver server
-- [ ] Dockerie sender/receiver server
+- [ ] Build the sender/receiver server (netty/jetty/spring)
+- [ ] Dockerie sender/receiver server (netty/jetty/spring)
+- [ ] Use docker-compose and run the app as set of services
 - [ ] Integrate kubernetes and run the application on cloud
 - [ ] Build in monitoring to monitor realtime traffic events
